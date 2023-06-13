@@ -6,7 +6,7 @@ int CheckValue(const int target_value) {
 
 	int count = 0;
 	int current_value = 0;
-	bool not_win = true;
+
 
 	std::cout << "Enter your guess:" << std::endl;
 

@@ -4,7 +4,6 @@
 
 int randomValue() {
 
-	const int max_value = 100;
 
 	std::srand(std::time(nullptr)); // use current time as seed for random generator
 

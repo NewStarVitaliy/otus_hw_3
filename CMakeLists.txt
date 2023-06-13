@@ -19,7 +19,7 @@ CXX_STANDARD_REQUIRED ON)
 
 if (CMAKE_CXX_COMPILER_ID MATCHES "Clang" OR
 CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
-target_compile_options(calc PRIVATE
+target_compile_options(BinarySearch PRIVATE
 -g
 -Wall
 -Wextra
