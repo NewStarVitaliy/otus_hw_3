@@ -1,3 +1,0 @@
-C:/Users/Admin/temp/hw_3/build/CMakeFiles/BinarySearch.dir
-C:/Users/Admin/temp/hw_3/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Admin/temp/hw_3/build/CMakeFiles/ZERO_CHECK.dir
